@@ -25,12 +25,11 @@ const meta = {
 export default meta;
 type Story = StoryObj<typeof meta>;
 
-import deleteIcon from "../assets/ic-asset-delete-dark.svg";
-
 export const Default: Story = {
   args: {
     alt: "icon",
-    iconPath: deleteIcon,
+    // iconPath: deleteIcon,
+    iconPath: "https://kr.object.ncloudstorage.com/icons/ic-delete-dark.svg",
     onClick: () => {},
   },
 };
