@@ -33,13 +33,14 @@ const DefaultTextField = ({
     : "border-primary";
 
   return (
-    <div>
+    <div className="relative">
       <div
         onFocus={() => setIsFocused(true)}
         onBlur={() => setIsFocused(false)}
         className={`text-primary border-b ${borderColor}`}
       >
         <input
+          id={id}
           className="outline-none"
           type="text"
           value={value}

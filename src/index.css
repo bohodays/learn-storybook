@@ -37,3 +37,9 @@
 body {
   font-family: "Noto Sans KR";
 }
+
+@layer components {
+  .text-field > p {
+    @apply absolute;
+  }
+}
