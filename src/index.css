@@ -32,6 +32,9 @@
   --text-2xl--letter-spacing: 0;
   --text-2xl--font-weight: 700;
   --default-font-family: "Noto Sans KR";
+
+  /* border */
+  --radius-primary-button: 5px;
 }
 
 body {
