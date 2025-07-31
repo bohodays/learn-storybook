@@ -11,6 +11,7 @@
   --color-mono300: #d6d7d9;
   --color-error: #d01e1e;
   --color-social: #395997;
+  --color-dark-opacity: rgba(255, 255, 255, 0.1);
 
   /* font size */
   --text-xs: 12px;
@@ -35,6 +36,7 @@
 
   /* border */
   --radius-primary-button: 5px;
+  --radius-tag-button: 17.5px;
 }
 
 body {
