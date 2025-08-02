@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons/TagList Default smoke-test 1`] = `
+<div class="flex gap-x-4">
+  <button class="h-[33px] rounded-tag-button px-[10px] border border-white text-sm font-medium bg-white text-primary">
+    tag1
+  </button>
+  <button class="h-[33px] rounded-tag-button px-[10px] border border-white text-sm font-medium bg-dark-opacity text-white">
+    tag2
+  </button>
+  <button class="h-[33px] rounded-tag-button px-[10px] border border-white text-sm font-medium bg-dark-opacity text-white">
+    tag3
+  </button>
+</div>
+`;

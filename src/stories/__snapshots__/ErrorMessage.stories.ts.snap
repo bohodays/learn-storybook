@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text/ErrorMessage Default smoke-test 1`] = `
+<p class="text-xs text-error">
+  에러 메세지는 여기로
+</p>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons/PrimaryButton Dark smoke-test 1`] = `
+<div style="width: 360px;">
+  <button class="w-full  h-[59px] rounded-primary-button bg-primary text-white disabled:bg-mono100 disabled:text-mono200">
+    Button
+  </button>
+</div>
+`;
+
+exports[`Buttons/PrimaryButton Disabled smoke-test 1`] = `
+<div style="width: 360px;">
+  <button class="w-full  h-[59px] rounded-primary-button bg-primary text-white disabled:bg-mono100 disabled:text-mono200"
+          disabled
+  >
+    Button
+  </button>
+</div>
+`;
+
+exports[`Buttons/PrimaryButton Light smoke-test 1`] = `
+<div style="width: 360px;">
+  <button class="w-full  h-[59px] rounded-primary-button bg-white text-primary disabled:bg-mono100 disabled:text-mono200">
+    Button
+  </button>
+</div>
+`;
+
+exports[`Buttons/PrimaryButton Social smoke-test 1`] = `
+<div style="width: 360px;">
+  <button class="w-full  h-[59px] rounded-primary-button bg-social text-white disabled:bg-mono100 disabled:text-mono200">
+    Button
+  </button>
+</div>
+`;
+
+exports[`Buttons/PrimaryButton Text smoke-test 1`] = `
+<div style="width: 360px;">
+  <button class="w-full  h-[59px] rounded-primary-button bg-transparent text-white disabled:bg-mono100 disabled:text-mono200">
+    Button
+  </button>
+</div>
+`;

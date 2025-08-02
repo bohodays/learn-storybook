@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons/IconButton Default smoke-test 1`] = `
+<button>
+  <img alt="icon"
+       src="https://kr.object.ncloudstorage.com/icons/ic-delete-dark.svg"
+  >
+</button>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextFields/DefaultTextField Default smoke-test 1`] = `
+<div class="relative">
+  <div class="text-primary border-b border-mono300">
+    <input id="email"
+           class="outline-none"
+           placeholder="텍스트를 입력해주세요"
+           type="text"
+           value
+    >
+  </div>
+</div>
+`;

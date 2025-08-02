@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text/Label Default smoke-test 1`] = `
+<label class="text-sm text-primary"
+       for="username"
+>
+  이메일
+</label>
+`;
